@@ -32,17 +32,21 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=9B5DE5&icon_color=F15BB5&text_color=a9b1d6&bg_color=1a1b27" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=9B5DE5&icon_color=F15BB5" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9B5DE5&text_color=a9b1d6&bg_color=1a1b27" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9B5DE5" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5&sideLabels=9B5DE5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aykuttonpc&theme=tokyonight"/>
 
 </div>
 
@@ -62,25 +66,9 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake-dark.svg" alt="snake"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=9B5DE5&line=9B5DE5&point=F15BB5&area_color=9B5DE5"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=9B5DE5&line=9B5DE5&point=F15BB5"/>
 
 </div>
 
