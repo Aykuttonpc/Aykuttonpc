@@ -1,42 +1,13 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%96%8C;%3E+aykut+cincik+%E2%80%94+backend+%2F+mobile+dev+%E2%96%8C;%24+cat+stack.txt+%E2%96%8C;%3E+.NET+9+%C2%B7+Kotlin+%C2%B7+Docker+%C2%B7+SQL+%E2%96%8C;%24+uptime+%E2%96%8C;%3E+building+in+production+since+2023+%E2%96%8C" />
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────┐
-│  aykut@dev  ●  cs @ estu  ●  backend + android + vps │
-└──────────────────────────────────────────────────────┘
-```
-
-```bash
-$ cat /etc/profile.d/aykut.conf
-
-  LANGUAGES  ──  C#  ·  Kotlin  ·  Java  ·  T-SQL
-  BACKEND    ──  .NET 9  ·  ASP.NET Core  ·  EF Core  ·  SignalR
-  MOBILE     ──  Jetpack Compose  ·  Room  ·  Clean Arch  ·  MVVM
-  DATABASE   ──  SQL Server  ·  PostgreSQL  ·  MySQL  ·  Firebase
-  INFRA      ──  Docker  ·  Nginx  ·  GitHub Actions  ·  Hetzner VPS
-
-  [████████████████████] LOADED — 0 errors
-```
-
-```bash
-$ curl -s https://aykutonpc.com/health
-  {"status":"Healthy","env":"Production","stack":".NET 9 + Postgres + Docker"}
-```
-
----
-
-```bash
-$ ls ./connect
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Aykut%20C%C4%B1nc%C4%B1k&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Mobile%20%C2%B7%20DevOps&descSize=20&descAlignY=58&descColor=ffffff"/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&duration=3500&pause=900&color=B48EF2&center=true&vCenter=true&width=650&lines=Building+things+that+actually+run+in+prod+🚀;Full-stack+.NET+%2B+Kotlin+%2B+Docker+✨;Clean+architecture%2C+real+deploys%2C+zero+excuses+⚡;CS+student+%40+ESTU+—+always+shipping+🎯" />
+
+<br/>
 
 <a href="https://aykutonpc.com">
-  <img src="https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logoColor=39D353"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-B48EF2?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/aykut-cıncık">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -45,30 +16,51 @@ $ ls ./connect
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=aykuttonpc&color=39D353&style=flat-square&label=visitors)
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=aykuttonpc&color=B48EF2&style=flat-square&label=visitors)
 
 </div>
 
 ---
 
-```bash
-$ git log --stat
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
+
+### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=39D353&title_color=39D353" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=39D353" height="165"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,docker,postgres,mysql,git,github,androidstudio,firebase,nginx&theme=dark&perline=6"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=B48EF2&icon_color=B48EF2" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=B48EF2" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=B48EF2&fire=ff6eb4&currStreakLabel=B48EF2"/>
 </div>
+
+---
+
+### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aykuttonpc&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
-```bash
-$ exit
-  Connection closed. See you on the other side.
-```
+---
+
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=B48EF2&line=B48EF2&point=ff6eb4"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
