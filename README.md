@@ -1,66 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Aykut%20C%C4%B1nc%C4%B1k&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Mobile%20%C2%B7%20DevOps&descSize=20&descAlignY=58&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=260&section=header&text=Aykut%20C%C4%B1nc%C4%B1k&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20DevOps&descSize=22&descAlignY=60&descColor=ffffffbb"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&duration=3500&pause=900&color=B48EF2&center=true&vCenter=true&width=650&lines=Building+things+that+actually+run+in+prod+🚀;Full-stack+.NET+%2B+Kotlin+%2B+Docker+✨;Clean+architecture%2C+real+deploys%2C+zero+excuses+⚡;CS+student+%40+ESTU+—+always+shipping+🎯" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Kotlin+%2B+Jetpack+Compose+on+Android;Docker+%2B+VPS+%2B+CI%2FCD+in+Production;Clean+Architecture+%7C+Real+Deploys;Always+shipping+something+new..." />
 
 <br/>
 
-<a href="https://aykutonpc.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-B48EF2?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/aykut-cıncık">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.leetcode.com/aykut___">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/-aykutonpc.com-9B5DE5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aykutonpc.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aykut-cıncık)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aykut___)
 
-<br/><br/>
+<br/>
 
-![](https://komarev.com/ghpvc/?username=aykuttonpc&color=B48EF2&style=flat-square&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=aykuttonpc&color=9B5DE5&style=flat-square&label=profile+views)
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
+<div align="center">
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<br/>
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,docker,postgres,mysql,git,github,androidstudio,firebase,nginx&theme=dark&perline=6"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
-
----
-
-### 📊 Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=B48EF2&icon_color=B48EF2" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=B48EF2" height="170"/>
+
+### 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=9B5DE5&icon_color=F15BB5&text_color=a9b1d6&bg_color=1a1b27" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9B5DE5&text_color=a9b1d6&bg_color=1a1b27" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5&sideLabels=9B5DE5"/>
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=B48EF2&fire=ff6eb4&currStreakLabel=B48EF2"/>
-</div>
-
----
 
 ### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aykuttonpc&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aykuttonpc&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6"/>
+
 </div>
 
----
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Aykuttonpc/Aykuttonpc/output/snake-dark.svg" alt="snake"/>
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 📈 Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=B48EF2&line=B48EF2&point=ff6eb4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aykuttonpc&theme=tokyo-night&hide_border=true&area=true&color=9B5DE5&line=9B5DE5&point=F15BB5&area_color=9B5DE5"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=140&section=footer"/>
