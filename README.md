@@ -36,17 +36,19 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aykuttonpc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=9B5DE5&icon_color=F15BB5" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aykuttonpc&theme=tokyonight&hide_border=true"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykuttonpc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9B5DE5" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aykuttonpc&theme=tokyonight&hide_border=true"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aykuttonpc&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aykuttonpc&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykuttonpc&theme=tokyonight&hide_border=true&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aykuttonpc&theme=tokyonight"/>
 
 </div>
 
